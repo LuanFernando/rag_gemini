@@ -1,0 +1,40 @@
+Definição Geral: Peixes são vertebrados aquáticos, predominantemente ectotérmicos (de sangue frio), com guelras para respirar e geralmente membros em forma de nadadeiras.
+Respiração por Guelras: A maioria dos peixes absorve oxigênio da água através de guelras, estruturas altamente vascularizadas.
+Nadadeiras: Possuem diferentes tipos de nadadeiras (dorsal, caudal, peitoral, pélvica, anal) que auxiliam na propulsão, direção e estabilidade.
+Linha Lateral: Um sistema sensorial único que detecta vibrações e mudanças de pressão na água, essencial para navegação e detecção de predadores/presas.
+Escamas: A maioria dos peixes tem o corpo coberto por escamas protetoras, que podem ser de vários tipos (cicloides, ctenoides, ganoide, placoides).
+Bexiga Natatória: Muitos peixes ósseos possuem uma bexiga natatória, um órgão cheio de gás que os ajuda a controlar a flutuabilidade na coluna d'água.
+Ectotermia (Pecilotermia): Sua temperatura corporal varia com a temperatura do ambiente.
+Reprodução Ovulípara: A maioria dos peixes é ovulípara, liberando óvulos e espermatozóides na água para fertilização externa.
+Oviparidade: Depositar ovos, que se desenvolvem externamente.
+Viviparidade: Algumas espécies (como certos tubarões e guppies) dão à luz filhotes vivos.
+Habitat Variado: Encontrados em quase todos os ambientes aquáticos, desde riachos de montanha até as profundezas oceânicas.
+Água Doce e Salgada: Existem peixes de água doce (rios, lagos) e de água salgada (oceanos, mares), e alguns são anádromos ou catádromos.
+Classificação Diversa: Divididos em três grupos principais: peixes sem mandíbula (agnatos), peixes cartilaginosos (Chondrichthyes) e peixes ósseos (Osteichthyes).
+Peixes Sem Mandíbula (Agnatos): Incluem lampreias e feiticeiras, que não possuem mandíbulas verdadeiras e têm corpos alongados.
+Peixes Cartilaginosos (Chondrichthyes): Grupo que inclui tubarões, raias e quimeras, com esqueletos feitos de cartilagem.
+Peixes Ósseos (Osteichthyes): O grupo mais diverso, com esqueletos ósseos e nadadeiras com raios.
+Diversidade de Espécies: Existem mais de 30.000 espécies de peixes conhecidas, tornando-os o maior grupo de vertebrados.
+Tamanho Variável: Desde o goby anão (apenas alguns milímetros) até o tubarão-baleia (o maior peixe, com até 18 metros).
+Dieta Ampla: Podem ser carnívoros, herbívoros, onívoros ou detritívoros, dependendo da espécie.
+Adaptações de Camuflagem: Muitos peixes possuem padrões de cores e formas que os ajudam a se misturar com o ambiente (ex: camuflagem disruptiva, contrassombra).
+Migrações: Algumas espécies realizam longas migrações para reprodução ou busca de alimento (ex: salmão, enguia).
+Comportamento de Escola/Cardume: Muitos peixes formam cardumes para proteção contra predadores e maior eficiência na busca por alimento.
+Cuidado Parental: Varia de espécies que liberam ovos e não cuidam da prole a outras que constroem ninhos e guardam os ovos/filhotes.
+Longevidade Variável: De alguns meses (como o killifish anual) a décadas (como o tubarão-da-groenlândia, que pode viver mais de 500 anos).
+Uso de Eletricidade: Alguns peixes (como a enguia elétrica) geram campos elétricos para caça, defesa ou navegação.
+Bioluminescência: Peixes de águas profundas frequentemente produzem luz para atrair presas ou parceiros.
+Órgãos Luminosos (Fotóforos): Usados para bioluminescência, variam em complexidade e localização no corpo do peixe.
+Importância Ecológica: São componentes cruciais das cadeias alimentares aquáticas, servindo como presas e predadores.
+Dispersão de Nutrientes: Peixes migradores, como o salmão, transportam nutrientes entre ambientes marinhos e de água doce.
+Bioindicadores: A saúde das populações de peixes pode indicar a saúde geral de um ecossistema aquático.
+Recursos Alimentares: Peixes são uma fonte vital de alimento e proteína para bilhões de pessoas em todo o mundo.
+Pesca Comercial: Uma indústria global significativa, empregando milhões de pessoas.
+Aquicultura (Piscicultura): A criação de peixes em cativeiro para alimentação, ajudando a suprir a demanda global.
+Aquarismo: O hobby de manter peixes em aquários, tanto para fins decorativos quanto educacionais.
+Peixes Ornamentais: Muitas espécies são criadas e comercializadas por sua beleza em aquários (ex: peixe-palhaço, betta).
+Ameaças à Conservação: Sobrepesca, poluição, destruição de habitat, mudanças climáticas e espécies invasoras são as principais ameaças.
+Peixes Anádromos: Nascem em água doce, migram para o mar para viver e voltam para água doce para reproduzir (ex: salmão).
+Peixes Catádromos: Nascem no mar, migram para água doce para viver e voltam para o mar para reproduzir (ex: enguia).
+Peixes de Fundo (Demersais): Vivem e se alimentam perto do leito do oceano ou lago.
+Peixes Pelágicos: Vivem na coluna d'água, longe do fundo ou da costa.
